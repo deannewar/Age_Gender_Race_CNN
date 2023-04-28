@@ -13,7 +13,7 @@ The CNN models were trained using the GPU's of Google Colab.
 
 * Download the UTKFace dataset here: https://www.kaggle.com/datasets/jangedoo/utkface-new
 
-* Install all packages needed: ```pip install requirements.txt```.
+* Install all packages needed: ```pip install -r requirements.txt```.
 
 ### Executing program
 
