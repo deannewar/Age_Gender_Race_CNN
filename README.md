@@ -13,6 +13,8 @@ The CNN models were trained using the GPU's of Google Colab.
 
 * Download the UTKFace dataset here: https://www.kaggle.com/datasets/jangedoo/utkface-new
 
+* Install all packages needed: ```pip install requirements.txt```.
+
 ### Executing program
 
 * To run the GUI screen, download or clone this repo and navigate to the folder of this repo. Simply run ```python gui.py``` and a screen will pop up. It asks the user to upload a local file which has to be an image in JPEG form. Wait a little while and the predictions will appear on your screen.
